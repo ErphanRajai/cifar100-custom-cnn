@@ -27,7 +27,6 @@ A deep convolutional neural network built **from scratch** in PyTorch, trained o
 
 ## 📁 Project Structure
 ├── engine.py # Training utilities (dataloaders, loop, plotting)
-├── best_model.pth # best saved model
 ├── CIFAR100_Custom_CNN.ipynb # Training results, curves, and experimentation
 ├── requirements.txt
 └── README.md
